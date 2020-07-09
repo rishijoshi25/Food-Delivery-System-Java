@@ -4,6 +4,8 @@ Implemented using:-
 
 - Java Swing
 
+- JDBC
+
 - MySQL
 
 How to run?
